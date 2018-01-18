@@ -1,0 +1,37 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "entidad": "opa",
+      "nombre": "andrés naranjo",
+      "cedula": 15373234,
+      "correo": "afnarqui9@gmail.com"
+    },
+    [
+      {
+        "id": 2,
+        "entidad": "la entidad",
+        "nombre": "él es",
+        "cedula": 102030,
+        "correo": "afnarqui9@gmail.com"
+      }
+    ],
+    [
+      {
+        "id": 5,
+        "entidad": "opa",
+        "nombre": "andrés naranjo",
+        "cedula": 15373234,
+        "correo": "afnarqui9@gmail.com"
+      }
+    ],
+    [
+      {
+        "entidad": "opa",
+        "nombre": "andrés naranjo",
+        "cedula": 15373234,
+        "correo": "afnarqui9@gmail.com"
+      }
+    ]
+  ]
+}
